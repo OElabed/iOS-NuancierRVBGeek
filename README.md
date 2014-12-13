@@ -3,6 +3,9 @@ iOS-NuancierRVBGeek
 
 NuancierRVB is an application which displays the RGB color mixing (Objective-C, programmatically, ARC disactivated)
 
+###### keywords
+iOS, iPhone, iPod, iPad, UIButton, UIView, UISlider, UIStepper, UIColor.
+
 ###### Screenshots
 ![alt text](https://github.com/Kingsousse/iOS-NuancierRVB/blob/master/capt1.png "screen 1")
 
